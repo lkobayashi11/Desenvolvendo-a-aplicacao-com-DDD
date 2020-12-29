@@ -8,7 +8,7 @@ Utilizando o código do projeto Aurora, desenvolvido por Alex Alves, Daccas exib
 
 
 
-##### O que é DDD ou Domain Driven Design?
+#### O que é DDD ou Domain Driven Design?
 
 Domain Driven Design significa Projeto Orientado a Domínio. O conceito surgiu do livro escrito por Eric Evans publicado em 2003. 
 
@@ -16,7 +16,7 @@ Domain Driven Design “’é um conjunto de princípios com foco em domínio, e
 
  
 
-##### Domínio
+#### Domínio
 
 Domínio é o coração do negócio,  baseado em um conjunto de ideias, conhecimento e processos de negócio. É a razão do negócio existir. Sem o domínio todo o sistema, todos os processos auxiliares, não servirão para nada.
 
@@ -28,7 +28,7 @@ Quando falamos em DDD – Domain Driven Design, não falamos apenas em desenvolv
 
 
 
-##### Linguagem Ubíqua
+#### Linguagem Ubíqua
 
 O DDD preza que os desenvolvedores façam parte do processo, entendendo o negócio e todos os seus modelos nos diferentes ângulos e não somente participando de reuniões com especialistas.
 
@@ -55,7 +55,7 @@ DDD pode ser visto por alguns como a volta da orientação a objetos. Quando se 
 
  
 
-**Blocos de construção do Model Driven Design (MDD)**
+#### **Blocos de construção do Model Driven Design (MDD)**
 
 Uma vez que decidimos criar um modelo usando MDD, precisamos, inicialmente, isolar o modelo de domínio das demais partes que compõem o sistema. Essa separação pode ser feita utilizando-se uma arquitetura em camadas, que dividirá nossa aplicação em partes:
 
